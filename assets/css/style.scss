@@ -4,3 +4,9 @@
 @import "{{ site.theme }}";
 
 @font-face{font-family:'Literata';font-weight:400}
+
+body {
+  font: 17px/1.5 "Literata", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color:#727272;
+  font-weight:400;
+}
